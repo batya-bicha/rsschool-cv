@@ -26,9 +26,7 @@ A highly motivated and detail-oriented Junior Java Developer with a strong found
 ### Code Example
 
 ```javascript
-const test = (a) => (b) => {
+const multiply = (a, b) => {
     return  a * b
 }
-
-const res = test(2)(2) 
 ```
