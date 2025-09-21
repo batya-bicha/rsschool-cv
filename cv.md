@@ -4,6 +4,8 @@ Minsk
 [GitHub](https://github.com/batya-bicha)
 **Discord:** ɐҺиƍ ʁɯɐƍ(@batya-bicha)
 
+![photo](https://github.com/user-attachments/assets/2fa535ff-8e3d-4bd1-9a02-f2140b263ba7)
+
 ---
 
 ### Summary
